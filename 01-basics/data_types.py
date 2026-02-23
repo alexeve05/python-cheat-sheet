@@ -1,15 +1,13 @@
 # main built-in types in python
 
-# int, float
-# str
-# bool
-# list, tuple, set, dict
+# mutable: list, dict, set
+# immutable: int, float, str, tuple, bool
 # nonetype
 
-#int
+# int
 age = 20
 
-#float
+# float
 gpa = 3.9
 
 # string
@@ -28,12 +26,15 @@ point = (3, 6)
 pets = {"cat", "dog", "hamster"}
 
 # dictionary
-person = {"name:": "Alexis", "age:": 20}
+person = {"name": "Alexis", "age": 20}
 
 # how to check type
-type(name)
+print(type(name))
 
 # type casting
 int("10")
 float("3.14")
 str(123)
+
+# NoneType
+result = None

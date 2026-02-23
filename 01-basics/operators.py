@@ -1,5 +1,4 @@
 # arithmetic operators
-
 # operator   meaning
 # +          addition
 x = 2 + 3
@@ -17,30 +16,30 @@ x = 2 ** 3
 x = 9 // 2
 
 #comparison operators
-
 # operator    meaning
 # ==          equal to
-x == 2
+print(x == 2)
 # !=          not equal to
-x != 3
+print(x != 3)
 # >           greater than
-x > 2
+print(x > 2)
 # <           less than
-x < 3
+print(x < 3)
 # >=          greater than or equal to
-x >= 2
+print(x >= 2)
 # <=          less than or equal to
-x <= 3
+print(x <= 3)
 
 # logical operators
-
-# operator   example          meaning
-# and       True and False    logical AND
-# or        True or False     logical OR
-# not       not True          logical NOT
+# and
+# or
+# not
+x = 5
+print(x > 2 and x < 10)  # True
+print(x < 2 or x > 10)   # False
+print(not(x > 2))        # False
 
 # assignment operators
-
 # operator     meaning
 # +=           add and assign
 x += 2
