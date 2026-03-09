@@ -1,0 +1,55 @@
+USEFUL PYTHON LINKS
+
+Official Python Docs
+https://docs.python.org/3/
+
+W3Schools Python Tutorial
+https://www.w3schools.com/python/
+
+Python Tutor
+https://pythontutor.com/
+
+LeetCode (Practice problems)
+https://leetcode.com/
+
+HackerRank Practice
+https://www.hackerrank.com/domains/tutorials/10-days-of-python
+
+Real Python tutorials
+https://realpython.com/
+
+Free Python Books
+https://automatetheboringstuff.com/
+
+Regex Tester
+https://regex101.com/
+
+CS Dojo (Beginner tutorials)
+https://www.youtube.com/c/CSDojo
+
+Programming with Mosh
+https://www.youtube.com/watch?v=_uQrJ0TkZlc
+
+freeCodeCamp.org
+https://www.youtube.com/watch?v=rfscVS0vtbw
+
+Tech with Tim
+https://www.youtube.com/c/TechWithTim
+
+Codecademy (interactive coding exercises)
+https://www.codecademy.com/learn/learn-python-3
+
+Replit (browser based coding with feedback)
+https://replit.com/languages/python3
+
+CheckiO / Empire of Code (game challenges)
+https://checkio.org/
+
+Exercism Python Track (mentored practice)
+https://exercism.org/tracks/python
+
+Codewars Python Kata (game challenges)
+https://www.codewars.com/
+
+PyGame
+https://www.pygame.org/
