@@ -18,16 +18,16 @@ Each folder covers Python topics (variables, loops, functions, etc.)
 
 ### Folder Overview
 
-| Folder  | Topic |
-| ------------- | ------------- |
-| '01-basics'  | variables, operators, data types  |
-| '02-control_flow'  | conditionals, loops  |
-| '03-functions'  | defining/calling functions  |
-| '04-collections'  | lists, tuples, sets, dictionaries  |
-| '05-strings'  | string methods and formatting  |
-| '06-files_exceptions'  | file/error handling  |
-| '07-modules_packages'  | importing/using libraries  |
-| '08-extra'  | tricks and common patterns  |
+| Folder                | Topic                             |
+| --------------------- | --------------------------------- |
+| '01-basics'           | variables, operators, data types  |
+| '02-control_flow'     | conditionals, loops               |
+| '03-functions'        | defining/calling functions        |
+| '04-collections'      | lists, tuples, sets, dictionaries |
+| '05-strings'          | string methods and formatting     |
+| '06-files_exceptions' | file/error handling               |
+| '07-modules_packages' | importing/using libraries         |
+| '08-extra'            | tricks and common patterns        |
 
 ---
 
