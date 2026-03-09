@@ -1,5 +1,5 @@
 # Importing Modules
-# a modules is a python file containing code (functions, variables, etc)
+# a module is a python file containing code (functions, variables, etc)
 
 # Importing a module
 import math
