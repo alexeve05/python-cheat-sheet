@@ -1,0 +1,45 @@
+PYTHON QUICK SUMMARY
+
+Variables
+- x = 5
+- name = Alexis
+- isStudent = True
+
+Conditionals
+if x > 5:
+    print("Greater")
+elif x == 5:
+    print("Equal")
+else:
+    print("Less")
+
+Loops
+for i in range(5):
+    print(i)
+while x < 10:
+    x += 1
+
+Functions
+def add(a, b):
+    return a + b
+
+Lists
+numbers = [1, 2, 3]
+numbers.append(4)
+for n in numbers:
+    print(n)
+
+Dictionaries
+person = {"name": "Alexis", "age": 21}
+for key, value in person.items():
+    print(key, value)
+
+File Reading
+with open("file.txt", "r") as f:
+    content = f.read()
+
+Exception Handling
+try:
+    x = int(input())
+except ValueError:
+    print("Invalid number")
