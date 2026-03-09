@@ -1,0 +1,17 @@
+App / Tool Tips
+
+VS Code
+- Install the python extension
+- Use Ctrl + ` to open terminal
+- Use Ctrl + / to comment or uncomment lines
+
+Terminal basics
+- Run file: python script.py
+- Run interactive python: python
+- Exit shell: exit()
+
+Git basics
+- Check status: git status
+- Add files: git add .
+- Commit: git commit -m "message"
+- Push: git push
